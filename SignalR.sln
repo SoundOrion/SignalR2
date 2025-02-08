@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Shared", "SignalR.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Client2", "SignalR.Client2\SignalR.Client2.csproj", "{C4422466-5A98-4B38-A7A3-2F0FD2D69E76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Client3", "SignalR.Client3\SignalR.Client3.csproj", "{8506CC2E-49BD-4613-9679-A61C100DD55C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C4422466-5A98-4B38-A7A3-2F0FD2D69E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4422466-5A98-4B38-A7A3-2F0FD2D69E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4422466-5A98-4B38-A7A3-2F0FD2D69E76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8506CC2E-49BD-4613-9679-A61C100DD55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8506CC2E-49BD-4613-9679-A61C100DD55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8506CC2E-49BD-4613-9679-A61C100DD55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8506CC2E-49BD-4613-9679-A61C100DD55C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
